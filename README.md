@@ -17,6 +17,7 @@
 <div id="user-content-toc">
   <ul>
     <summary align="center"><h1 style="display: inline-block;">Hey 👋, I'm Christian Cheng (kChris)</h1></summary>
+    <p align="center">Software Developer, Trader & Sneaker Enthusiast from 🇸🇬 Singapore, currently living in 🇦🇺 Australia.</p>
   </ul>
 </div>
 <p align="center">Software Developer, Trader & Sneaker Enthusiast from 🇸🇬 Singapore, currently living in 🇦🇺 Australia.</p>
