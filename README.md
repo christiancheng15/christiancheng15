@@ -15,12 +15,12 @@
 </p>
 
 <h2 align="center">Hey 👋, I'm Christian Cheng (kChris)</h2>
-<p>
+<p align="center">
   I'm a...
   <ul>
-  <li>Software Developer</li>
-  <li>Trader</li>
-  <li>Sneaker Enthusiast</li>
+  <li>Software Developer 💻</li>
+  <li>Trader 📈</li>
+  <li>Sneaker Enthusiast 👟</li>
 </ul>
 </p>
 
