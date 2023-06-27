@@ -16,9 +16,6 @@
 
 <p id="discord_badge" align="center">
   <img src="https://discord-readme-badge.vercel.app/api?id=910033554644295750" alt="My Discord">
-</p>
-
-<p id="github_stats" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=christiancheng15&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=202225&icon_color=7289da" alt="kChris's GitHub stats">
 </p>
 
