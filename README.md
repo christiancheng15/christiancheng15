@@ -15,14 +15,11 @@
 </p>
 
 <h2 align="center">Hey 👋, I'm Christian Cheng (kChris)</h2>
-<p align="center">
-  I'm a...
-  <ul>
-    <li>Software Developer 💻</li>
-    <li>Trader 📈</li>
-    <li>Sneaker Enthusiast 👟</li>
-  </ul>
-</p>
+<ul align="center">
+  <li>Software Developer 💻</li>
+  <li>Trader 📈</li>
+  <li>Sneaker Enthusiast 👟</li>
+</ul>
 
 <p id="discord_badge" align="center">
   <img src="https://discord-readme-badge.vercel.app/api?id=910033554644295750" alt="My Discord"/>
