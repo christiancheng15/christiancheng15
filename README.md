@@ -21,7 +21,7 @@
 </div>
 <p align="center">Software Developer, Trader & Sneaker Enthusiast from 🇸🇬 Singapore, currently living in 🇦🇺 Australia.</p>
 
-<h4 align="center">Things I code with:</h4>
+<h3 align="center">Things I code with:</h3>
 <p id="badges" align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
