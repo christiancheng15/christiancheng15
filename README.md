@@ -49,7 +49,7 @@
     <tbody>
       <tr>
         <td>Coming Soon...</td>
-        <td align="center">⏳</td>
+        <td align="center">🚧</td>
       </tr>
     </tbody>
   </table>
