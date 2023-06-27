@@ -20,7 +20,6 @@
     <p align="center">Software Developer, Trader & Sneaker Enthusiast from 🇸🇬 Singapore, currently living in 🇦🇺 Australia.</p>
   </ul>
 </div>
-<p align="center">Software Developer, Trader & Sneaker Enthusiast from 🇸🇬 Singapore, currently living in 🇦🇺 Australia.</p>
 
 <h3 align="center">Things I code with:</h3>
 <p id="badges" align="center">
