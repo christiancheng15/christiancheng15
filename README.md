@@ -18,10 +18,10 @@
 <p align="center">
   I'm a...
   <ul>
-  <li>Software Developer 💻</li>
-  <li>Trader 📈</li>
-  <li>Sneaker Enthusiast 👟</li>
-</ul>
+    <li>Software Developer 💻</li>
+    <li>Trader 📈</li>
+    <li>Sneaker Enthusiast 👟</li>
+  </ul>
 </p>
 
 <p id="discord_badge" align="center">
