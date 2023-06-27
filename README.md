@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <h3>Things I Code With:</h3>
+  <h3>✏️ Things I Code With:</h3>
   <p id="badges">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
@@ -38,7 +38,14 @@
 </div>
 
 <div align="center">
-  <h3>My Latest Pickup:</h3>
+  <h3>📝 Blog:</h3>
+  <ul>
+    <li>Coming Soon...</li>
+  </ul>
+</div>
+
+<div align="center">
+  <h3>👟 My Latest Pickup:</h3>
   <h4>Salomon XT-6 White Lunar Rock (White/White/Lunar Rock) (26/06/23)</h4>
   <p>Design: ⭐⭐⭐⭐⭐ | Comfort: ⭐⭐⭐⭐ | Sizing: Size Up</p>
   <img src="salomon_xt_6.gif" alt="Salomon XT-6 White Lunar Rock">
