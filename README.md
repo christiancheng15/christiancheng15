@@ -19,7 +19,7 @@
 </p>
 
 <p id="github_stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christiancheng15&show_icons=true&theme=transparent&hide_border=true" alt="kChris's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=christiancheng15&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=b3b5b8&bg_color=202225" alt="kChris's GitHub stats">
 </p>
 
 <!--
