@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<p id="discord_badge" align="center>
+<p id="discord_badge" align="center">
   <img src="https://discord-readme-badge.vercel.app/api?id=910033554644295750" alt="My Discord">
 </p>
 
