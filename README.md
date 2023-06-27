@@ -12,7 +12,7 @@
   <a href="https://github.com/christiancheng15">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="discord://-/users/910033554644295750">
+  <a href="http://discord://-/users/910033554644295750">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
