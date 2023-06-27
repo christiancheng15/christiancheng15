@@ -57,9 +57,7 @@
 
 <div align="center">
   <h3>📝 My Blog:</h3>
-  <ul align="center">
-    <li>Coming Soon...</li>
-  </ul>
+  <p>Coming Soon...</p>
 </div>
 
 <div align="center">
