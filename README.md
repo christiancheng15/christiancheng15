@@ -40,6 +40,10 @@
 <div>
   <h3>My Latest Pickup:</h3>
   <p>Salomon XT-6 White Lunar Rock (White/White/Lunar Rock)</p>
+  <p>Design: ⭐⭐⭐⭐⭐</p>
+  <p>Comfort: ⭐⭐⭐⭐</p>
+  <p>Sizing: Size Up</p>
+  <img src="salomon_xt_6.gif" alt="Salomon XT-6 White Lunar Rock">
 </div>
 
 <div>
