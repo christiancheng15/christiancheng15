@@ -18,6 +18,10 @@
   <img src="https://discord-readme-badge.vercel.app/api?id=910033554644295750" alt="My Discord">
 </p>
 
+<p id="github_stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=christiancheng15&show_icons=true&theme=transparent" alt="kChris's GitHub stats">
+</p>
+
 <!--
 **christiancheng15/christiancheng15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
