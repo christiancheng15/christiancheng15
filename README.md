@@ -16,7 +16,7 @@
 
 <h2 align="center">Hey 👋, I'm Christian Cheng (kChris)</h2>
 <p>
-  Welcome to my page! I'm a...
+  I'm a...
   <ul>
   <li>Software Developer</li>
   <li>Trader</li>
