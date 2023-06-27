@@ -16,14 +16,6 @@
 
 <h2 align="center">Hey 👋, I'm Christian Cheng (kChris)</h2>
 
-<p align="center">
-  <ul>
-    <li>Coffee</li>
-    <li>Tea</li>
-    <li>Coca Cola</li>
-  </ul>
-</p>
-
 <p id="discord_badge" align="center">
   <img src="https://discord-readme-badge.vercel.app/api?id=910033554644295750" alt="My Discord"/>
 </p>
