@@ -26,7 +26,7 @@
 </div>
 
 <div>
-  <h3 align="center">Things I code with:</h3>
+  <h3 align="center">Things I Code With:</h3>
   <p id="badges" align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
@@ -35,6 +35,11 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   </p>
+</div>
+
+<div>
+  <h3>My Latest Pickup:</h3>
+  <p>Salomon XT-6 White Lunar Rock (White/White/Lunar Rock)</p>
 </div>
 
 <div>
