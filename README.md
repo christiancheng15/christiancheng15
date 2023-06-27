@@ -1,6 +1,5 @@
 <p id="header" align="center">
   <img src="logo_circle.png" width="100"/>
-  <img src="https://discord-readme-badge.vercel.app/api?id=910033554644295750" alt="My Discord">
 </p>
 
 <p id="badges" align="center">
@@ -16,7 +15,7 @@
 </p>
 
 <p id="discord_badge" align="center">
-  <img src="https://discord-readme-badge.vercel.app/api?id=910033554644295750" alt="My Discord">
+  <img src="https://discord-readme-badge.vercel.app/api?id=910033554644295750" alt="My Discord"/>
 </p>
 
 <!--
