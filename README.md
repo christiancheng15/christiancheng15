@@ -12,6 +12,10 @@
   <a href="https://github.com/christiancheng15">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="mailto:christiancheng15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white alt="Discord"/>
 </p>
 
 <div id="user-content-toc">
