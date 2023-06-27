@@ -38,7 +38,25 @@
 </div>
 
 <div align="center">
-  <h3>📝 Blog:</h3>
+  <h3>💻 My Current Projects:</h3>
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>Projects</b></td>
+        <td><b>Status</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Coming Soon...</td>
+        <td>⏳</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div align="center">
+  <h3>📝 My Blog:</h3>
   <ul>
     <li>Coming Soon...</li>
   </ul>
