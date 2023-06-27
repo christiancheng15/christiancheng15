@@ -14,8 +14,10 @@
   </a>
 </p>
 
-<h3 align="center">Hey 👋, I'm Christian Cheng (kChris)</h3>
+<div align="center">
+<h3 align="left">Hey 👋, I'm Christian Cheng (kChris)</h3>
 <p align="center">Software Developer, Trader & Sneaker Enthusiast from 🇸🇬 Singapore, currently living in 🇦🇺 Australia.</p>
+</div>
 
 <h3 align="center">Things I code with:</h3>
 <p id="badges" align="center">
