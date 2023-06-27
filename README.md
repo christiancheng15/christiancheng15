@@ -37,7 +37,7 @@
   </p>
 </div>
 
-<div>
+<div align="center">
   <h3>My Latest Pickup: Salomon XT-6 White Lunar Rock (White/White/Lunar Rock)</h3>
   <p>Design: ⭐⭐⭐⭐⭐ | Comfort: ⭐⭐⭐⭐ | Sizing: Size Up</p>
   <img src="salomon_xt_6.gif" alt="Salomon XT-6 White Lunar Rock">
