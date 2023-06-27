@@ -37,7 +37,7 @@
   </p>
 </div>
 
-<div>
+<div align="center">
   <h3>My Latest Pickup:</h3>
   <p>Salomon XT-6 White Lunar Rock (White/White/Lunar Rock)</p>
   <p>Design: ⭐⭐⭐⭐⭐</p>
