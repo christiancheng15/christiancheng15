@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<h2>Hey 👋, I'm Christian Cheng (kChris)</h2>
+<h2 align="center">Hey 👋, I'm Christian Cheng (kChris)</h2>
 <p>
   Welcome to my page! I'm a...
   <ul>
