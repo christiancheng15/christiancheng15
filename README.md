@@ -25,9 +25,9 @@
   </ul>
 </div>
 
-<div>
-  <h3 align="center">Things I Code With:</h3>
-  <p id="badges" align="center">
+<div align="center">
+  <h3>Things I Code With:</h3>
+  <p id="badges">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -37,12 +37,9 @@
   </p>
 </div>
 
-<div align="center">
-  <h3>My Latest Pickup:</h3>
-  <p>Salomon XT-6 White Lunar Rock (White/White/Lunar Rock)</p>
-  <p>Design: ⭐⭐⭐⭐⭐</p>
-  <p>Comfort: ⭐⭐⭐⭐</p>
-  <p>Sizing: Size Up</p>
+<div>
+  <h3>My Latest Pickup: Salomon XT-6 White Lunar Rock (White/White/Lunar Rock)</h3>
+  <p>Design: ⭐⭐⭐⭐⭐ | Comfort: ⭐⭐⭐⭐ | Sizing: Size Up</p>
   <img src="salomon_xt_6.gif" alt="Salomon XT-6 White Lunar Rock">
 </div>
 
