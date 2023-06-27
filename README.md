@@ -15,13 +15,25 @@
 </p>
 
 <h2 align="center">Hey 👋, I'm Christian Cheng (kChris)</h2>
-<div align="center">
-  <ul display="inline-block" text-align="left">
-    <li>Software Developer 💻</li>
-    <li>Trader 📈</li>
-    <li>Sneaker Enthusiast 👟</li>
+<style>
+  div.container {
+    text-align: center;
+  }
+
+  ul.myUL {
+    display: inline-block;
+    text-align: left;
+  }
+</style>
+
+<div class="container">
+  <ul class="myUL">
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Coca Cola</li>
   </ul>
 </div>
+
 
 <p id="discord_badge" align="center">
   <img src="https://discord-readme-badge.vercel.app/api?id=910033554644295750" alt="My Discord"/>
