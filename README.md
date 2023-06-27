@@ -1,8 +1,8 @@
-<div id="header" align="center">
+<p id="header" align="center">
   <img src="logo_circle.png" width="100"/>
-</div>
+</p>
 
-<div id="badges" align="center">
+<p id="badges" align="center">
   <a href="https://www.instagram.com/christiancheng15/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -12,7 +12,7 @@
   <a href="https://github.com/christiancheng15">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</div>
+</p>
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=910033554644295750)
 
