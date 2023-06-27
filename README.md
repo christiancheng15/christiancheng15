@@ -14,8 +14,9 @@
   </a>
 </p>
 
-<h2>Hey 👋, I'm Christian Cheng (kChris), a...</h2>
+<h2>Hey 👋, I'm Christian Cheng (kChris)</h2>
 <p>
+  Welcome to my page! I'm a...
   <ul>
   <li>Software Developer</li>
   <li>Trader</li>
