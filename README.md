@@ -17,6 +17,8 @@
 <h3 align="center">Hey 👋, I'm Christian Cheng (kChris)</h3>
 <p align="center">Software Developer, Trader & Sneaker Enthusiast from 🇸🇬 Singapore, currently living in 🇦🇺 Australia.</p>
 
+<h3 align="center">Things I code with:</h3>
+
 <p id="discord_badge" align="center">
   <img src="https://discord-readme-badge.vercel.app/api?id=910033554644295750" alt="My Discord"/>
 </p>
