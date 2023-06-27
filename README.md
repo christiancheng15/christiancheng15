@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="logo.png" width="100"/>
+  <img src="logo_circle.png" width="100"/>
 </div>
 
 <!--
