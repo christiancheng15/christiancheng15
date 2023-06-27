@@ -14,6 +14,13 @@
   </a>
 </p>
 
+<h1 align="center">Hi 👋, I'm Christian Cheng (kChris)</h1>
+<ul>
+  <li>Software Developer</li>
+  <li>Trader</li>
+  <li>Sneaker Enthusiast</li>
+</ul>
+
 <p id="discord_badge" align="center">
   <img src="https://discord-readme-badge.vercel.app/api?id=910033554644295750" alt="My Discord"/>
 </p>
