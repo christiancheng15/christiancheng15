@@ -43,12 +43,14 @@
     <thead align="center">
       <tr border: none;>
         <td><b>Projects</b></td>
+        <td><b>Description</b></td>
         <td><b>Status</b></td>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td><a href="https://github.com/christiancheng15/StockX360">StockX360</a></td>
+        <td>Generate 360° GIF images from StockX</td>
         <td align="center">🟢</td>
       </tr>
     </tbody>
