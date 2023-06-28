@@ -48,7 +48,7 @@
     </thead>
     <tbody>
       <tr>
-        <td>[StockX360](https://github.com/christiancheng15/StockX360)</td>
+        <td><a href="https://github.com/christiancheng15/StockX360">StockX360</a></td>
         <td align="center">🟢</td>
       </tr>
     </tbody>
