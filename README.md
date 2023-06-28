@@ -53,6 +53,11 @@
         <td>Generate 360° GIF images from StockX</td>
         <td align="center">🟢</td>
       </tr>
+      <tr>
+        <td><a href="https://github.com/christiancheng15/Panckake-Parlour-Live-Temperature-Tracker">Pancake Parlour Live Temperature Tracker</a></td>
+        <td>Automated real-time temperature monitoring from the Bureau of Meteorology</td>
+        <td align="center">🟢</td>
+      </tr>
     </tbody>
   </table>
 </div>
