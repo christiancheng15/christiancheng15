@@ -55,7 +55,7 @@
       </tr>
       <tr>
         <td><a href="https://github.com/christiancheng15/Panckake-Parlour-Live-Temperature-Tracker">Pancake Parlour Live Temperature Tracker</a></td>
-        <td>Automated real-time temperature monitoring from the Bureau of Meteorology</td>
+        <td>Automated real-time temperature monitoring</td>
         <td align="center">🟢</td>
       </tr>
     </tbody>
