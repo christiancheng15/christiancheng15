@@ -38,7 +38,7 @@
 </div>
 
 <div align="center">
-  <h3>💻 My Current Projects:</h3>
+  <h3>💻 My Latest Projects:</h3>
   <table>
     <thead align="center">
       <tr border: none;>
@@ -48,8 +48,8 @@
     </thead>
     <tbody>
       <tr>
-        <td>Coming Soon...</td>
-        <td align="center">🚧</td>
+        <td>[StockX360](https://github.com/christiancheng15/StockX360)</td>
+        <td align="center">🟢</td>
       </tr>
     </tbody>
   </table>
