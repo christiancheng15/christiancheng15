@@ -64,9 +64,9 @@
 
 <div align="center">
   <h3>👟 My Latest Pickup:</h3>
-  <img src="salomon-xt-6-white-lunar-rock.gif" alt="Salomon XT-6 White Lunar Rock" width=75%>
   <h4>Salomon XT-6 White Lunar Rock (White/White/Lunar Rock) (26/06/23)</h4>
   <p>Design: ⭐⭐⭐⭐⭐ | Comfort: ⭐⭐⭐⭐ | Sizing: Size Up</p>
+  <img src="salomon-xt-6-white-lunar-rock.gif" alt="Salomon XT-6 White Lunar Rock" width=75%>
 </div>
 
 <div>
