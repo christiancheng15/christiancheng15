@@ -72,6 +72,6 @@
 <div>
   <h3 align="center">My Discord Status:</h3>
   <p id="discord_badge" align="center">
-    <img src="https://discord-readme-badge.vercel.app/api?id=910033554644295750" alt="My Discord" height=50%/>
+    <img src="https://discord-readme-badge.vercel.app/api?id=910033554644295750" alt="My Discord" max-height=50%/>
   </p>
 </div>
