@@ -66,12 +66,12 @@
   <h3>👟 My Latest Pickup:</h3>
   <h4>Salomon XT-6 White Lunar Rock (White/White/Lunar Rock) (26/06/23)</h4>
   <p>Design: ⭐⭐⭐⭐⭐ | Comfort: ⭐⭐⭐⭐ | Sizing: Size Up</p>
-  <img src="salomon-xt-6-white-lunar-rock.gif" alt="Salomon XT-6 White Lunar Rock">
+  <img src="salomon-xt-6-white-lunar-rock.gif" alt="Salomon XT-6 White Lunar Rock" height=50%>
 </div>
 
 <div>
   <h3 align="center">My Discord Status:</h3>
   <p id="discord_badge" align="center">
-    <img src="https://discord-readme-badge.vercel.app/api?id=910033554644295750" alt="My Discord" max-height=50%/>
+    <img src="https://discord-readme-badge.vercel.app/api?id=910033554644295750" alt="My Discord"/>
   </p>
 </div>
