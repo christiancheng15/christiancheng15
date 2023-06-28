@@ -39,7 +39,7 @@
 
 <div align="center">
   <h3>💻 My Latest Projects:</h3>
-  <table>
+  <table align="center">
     <thead align="center">
       <tr border: none;>
         <td><b>Projects</b></td>
