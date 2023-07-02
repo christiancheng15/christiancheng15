@@ -52,7 +52,7 @@
       <tr>
         <td>03/07/23</td>
         <td><a href="https://github.com/christiancheng15/">vPlate Checker</a></td>
-        <td>Lookup number plate combinations at vplates.com.au</td>
+        <td>Bulk number plate combinations checker for vplates.com.au</td>
         <td align="center">🟢</td>
       </tr>
       <tr>
@@ -64,7 +64,7 @@
       <tr>
         <td>28/06/23</td>
         <td><a href="https://github.com/christiancheng15/StockX360">StockX360</a></td>
-        <td>Generate 360° GIF images from StockX</td>
+        <td>Generate 360° GIF images from StockX.com</td>
         <td align="center">🟢</td>
       </tr>
       <tr>
