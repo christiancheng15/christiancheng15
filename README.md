@@ -49,6 +49,11 @@
     </thead>
     <tbody>
       <tr>
+        <td><a href="https://github.com/christiancheng15/GOAT-Image-Downloader">GOAT Image Downloader</a></td>
+        <td>Download high-resolution HD images from GOAT.com</td>
+        <td align="center">🟢</td>
+      </tr>
+      <tr>
         <td><a href="https://github.com/christiancheng15/StockX360">StockX360</a></td>
         <td>Generate 360° GIF images from StockX</td>
         <td align="center">🟢</td>
