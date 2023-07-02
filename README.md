@@ -42,6 +42,7 @@
   <table align="center">
     <thead align="center">
       <tr border: none;>
+        <td><b>Date</b></td>
         <td><b>Projects</b></td>
         <td><b>Description</b></td>
         <td><b>Status</b></td>
@@ -49,16 +50,19 @@
     </thead>
     <tbody>
       <tr>
+        <td>02/07/23</td>
         <td><a href="https://github.com/christiancheng15/GOAT-Image-Downloader">GOAT Image Downloader</a></td>
         <td>Download high-resolution HD images from GOAT.com</td>
         <td align="center">🟢</td>
       </tr>
       <tr>
+        <td>28/06/23</td>
         <td><a href="https://github.com/christiancheng15/StockX360">StockX360</a></td>
         <td>Generate 360° GIF images from StockX</td>
         <td align="center">🟢</td>
       </tr>
       <tr>
+        <td>25/06/23</td>
         <td><a href="https://github.com/christiancheng15/Panckake-Parlour-Live-Temperature-Tracker">Pancake Parlour Live Temperature Tracker</a></td>
         <td>Automated real-time temperature monitoring</td>
         <td align="center">🟢</td>
