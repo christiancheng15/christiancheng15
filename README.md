@@ -50,6 +50,12 @@
     </thead>
     <tbody>
       <tr>
+        <td>03/07/23</td>
+        <td><a href="https://github.com/christiancheng15/">vPlate Checker</a></td>
+        <td>Lookup number plate combinations at vplates.com.au</td>
+        <td align="center">🟢</td>
+      </tr>
+      <tr>
         <td>02/07/23</td>
         <td><a href="https://github.com/christiancheng15/GOAT-Image-Downloader">GOAT Image Downloader</a></td>
         <td>Download high-resolution HD images from GOAT.com</td>
