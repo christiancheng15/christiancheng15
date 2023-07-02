@@ -52,19 +52,19 @@
       <tr>
         <td>03/07/23</td>
         <td><a href="https://github.com/christiancheng15/">vPlate Checker</a></td>
-        <td>Bulk number plate combinations checker for vplates.com.au</td>
+        <td>Mass number plate combinations checker for Vplates</td>
         <td align="center">🟢</td>
       </tr>
       <tr>
         <td>02/07/23</td>
         <td><a href="https://github.com/christiancheng15/GOAT-Image-Downloader">GOAT Image Downloader</a></td>
-        <td>Download high-resolution HD images from GOAT.com</td>
+        <td>Download high-resolution HD images from GOAT</td>
         <td align="center">🟢</td>
       </tr>
       <tr>
         <td>28/06/23</td>
         <td><a href="https://github.com/christiancheng15/StockX360">StockX360</a></td>
-        <td>Generate 360° GIF images from StockX.com</td>
+        <td>Generate 360° GIF images from StockX</td>
         <td align="center">🟢</td>
       </tr>
       <tr>
