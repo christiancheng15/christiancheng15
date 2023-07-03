@@ -15,7 +15,9 @@
   <a href="https://www.instagram.com/christiancheng15/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://discord.gg/pNSPPP7WEq">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>\
+  <a>
 </p>
 
 <div id="user-content-toc">
