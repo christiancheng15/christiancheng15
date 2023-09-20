@@ -83,9 +83,9 @@
 
 <div align="center">
   <h3>👟 My Latest Pickup:</h3>
-  <h4>Salomon XT-6 White Lunar Rock (White/White/Lunar Rock) (26/06/23)</h4>
-  <p>Design: ⭐⭐⭐⭐⭐ | Comfort: ⭐⭐⭐⭐ | Sizing: Size Up</p>
-  <img src="images/salomon-xt-6-white-lunar-rock.gif" alt="Salomon XT-6 White Lunar Rock" width=75%>
+  <h4>Crocs Classic Clog x DreamWorks Shrek</h4>
+  <p>Design: ⭐⭐⭐⭐⭐ | Comfort: ⭐⭐⭐⭐⭐ | Sizing: True To Size</p>
+  <img src="images/crocs-classic-clog-dreamworks-shrek.gif" alt="Crocs Classic Clog x DreamWorks Shrek" width=75%>
 </div>
 
 <div>
