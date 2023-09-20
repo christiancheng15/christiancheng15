@@ -1,5 +1,5 @@
 <p id="header" align="center">
-  <img src="images/logo_circle.png" width="100"/>
+  <img src="images/c_logo_circle.png" width="100"/>
 </p>
 
 <p id="badges" align="center">
