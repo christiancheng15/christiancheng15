@@ -19,73 +19,8 @@
 
 <div id="user-content-toc">
   <ul>
-    <summary align="center"><h1 style="display: inline-block;">Hey 👋, I'm Christian Cheng (kChris)</h1></summary>
-    <h3 align="center">Software Developer, Trader & Sneaker Enthusiast from 🇸🇬 Singapore, currently living in 🇦🇺 Australia.</h3>
+    <summary align="center"><h1 style="display: inline-block;">👋 Hey! I'm Christian – a Software Engineer enthusiastic about Automation and Artificial Intelligence. I'm proficient in Python and C++, and excel in problem-solving. I'm currently studying Computer Science (Software Development) at Swinburne University of Technology, and actively explore new topics and technologies to broaden my knowledge and skills.</h1>
   </ul>
-</div>
-
-<div align="center">
-  <h3>✏️ Things I Code With:</h3>
-  <p id="badges">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  </p>
-</div>
-
-<div align="center">
-  <h3>💻 My Latest Projects:</h3>
-  <table align="center">
-    <thead align="center">
-      <tr border: none;>
-        <td><b>Date</b></td>
-        <td><b>Projects</b></td>
-        <td><b>Description</b></td>
-        <td><b>Status</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>03/07/23</td>
-        <td><a href="https://github.com/christiancheng15/">vPlate Checker</a></td>
-        <td>Mass number plate combinations checker for Vplates</td>
-        <td align="center">🟢</td>
-      </tr>
-      <tr>
-        <td>02/07/23</td>
-        <td><a href="https://github.com/christiancheng15/GOAT-Image-Downloader">GOAT Image Downloader</a></td>
-        <td>Download high-resolution HD images from GOAT</td>
-        <td align="center">🟢</td>
-      </tr>
-      <tr>
-        <td>28/06/23</td>
-        <td><a href="https://github.com/christiancheng15/StockX360">StockX360</a></td>
-        <td>Generate 360° GIF images from StockX</td>
-        <td align="center">🟢</td>
-      </tr>
-      <tr>
-        <td>25/06/23</td>
-        <td><a href="https://github.com/christiancheng15/Panckake-Parlour-Live-Temperature-Tracker">Pancake Parlour Live Temperature Tracker</a></td>
-        <td>Automated real-time temperature monitoring</td>
-        <td align="center">🟢</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<div align="center">
-  <h3>📝 My Blog:</h3>
-  <p>Coming Soon...</p>
-</div>
-
-<div align="center">
-  <h3>👟 My Latest Pickup:</h3>
-  <h4>Crocs Classic Clog x DreamWorks Shrek</h4>
-  <p>Design: ⭐⭐⭐⭐⭐ | Comfort: ⭐⭐⭐⭐⭐ | Sizing: True To Size</p>
-  <img src="images/crocs-classic-clog-dreamworks-shrek.gif" alt="Crocs Classic Clog x DreamWorks Shrek" width=75%>
 </div>
 
 <div>
