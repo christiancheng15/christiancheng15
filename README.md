@@ -2,6 +2,10 @@
 
 I'm a 22-year-old developer originally from Singapore, now residing in Australia, with a strong passion for problem-solving. I'm interested in Automation and AI/ML.
 
+- Check out my Website (WIP) to learn more about me
+- Explore my [GitHub](https://github.com/christiancheng15) where I share my latest projects
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/christiancheng15/)
+
 ## 🧰 Toolbox
 
 **Languages:** Python, C/C++, Go, HTML, CSS, JavaScript, SQL
