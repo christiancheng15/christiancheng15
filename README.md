@@ -10,6 +10,8 @@ I'm a 22-year-old developer originally from Singapore, now residing in Australia
 
 **Languages:** Python, C/C++, Go, HTML, CSS, JavaScript, SQL
 
+**Developer Tools:** Git, GitHub, BitBucket
+
 ## 💬 Contact
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/christiancheng15/) or [Discord](https://discordapp.com/users/910033554644295750).
