@@ -1,4 +1,4 @@
-## Hey, I'm Christian Cheng 👋🏼
+<h2 style="text-decoration: none;">Hey, I'm Christian Cheng 👋🏼</h2>
 
 I'm a 22-year-old developer originally from Singapore, now residing in Australia, with a strong passion for problem-solving. I'm interested in Automation and AI/ML.
 
