@@ -8,9 +8,9 @@ I'm a 22-year-old developer originally from Singapore, now residing in Australia
 
 ## 🧰 Toolbox
 
-**Languages:** Python, C/C++, Go, HTML, CSS, JavaScript, SQL
+**Languages:** `Python`, `C++`, `Go`, `HTML`, `CSS`, `JavaScript`, `SQL`
 
-**Developer Tools:** Git, GitHub, BitBucket
+**Developer Tools:** `Git`, `GitHub`, `BitBucket`
 
 ## 💬 Contact
 
