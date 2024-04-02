@@ -22,9 +22,9 @@ I'm a 22-year-old developer from Singapore, currently in Australia. I'm passiona
 
 ## 🌟 Fun Facts
 
-- RotMG is my favorite game
 - I love collecting sneakers
 - My favorite food is pepperoni pizza
+- RotMG is my favorite video game
 
 ## 💬 Contact
 
