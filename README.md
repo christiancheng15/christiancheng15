@@ -16,9 +16,9 @@ I'm a 22-year-old developer from Singapore, currently in Australia. I'm passiona
 
 ## 🚧 Projects
 
-| Date       | Name       | Description | Status | Link |
+| Date       | Name       | Description | Status | GitHub Link |
 |------------|------------|-------------|--------|------|
-| YYYY-MM-DD | [Name]     | [Description] | [Status] | [Link] |
+| YYYY-MM-DD | Gist     | Your bite-sized news companion. This was submitted as part of UNIHACK 2024, view our submission [here](https://devpost.com/software/gist-ryfdhn) | 🟢 | [🔗](https://github.com/christiancheng15/UNIHACK-2024) |
 | YYYY-MM-DD | [Name]     | [Description] | [Status] | [Link] |
 | YYYY-MM-DD | [Name]     | [Description] | [Status] | [Link] |
 
