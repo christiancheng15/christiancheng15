@@ -1,6 +1,6 @@
-## Hey, I'm Christian Cheng 👋🏼</h1>
+## Hey, I'm Christian Cheng 👋</h1>
 
-I'm a 22-year-old developer originally from Singapore, now residing in Australia, with a strong passion for problem-solving. I'm interested in Automation and AI/ML.
+I'm a 22-year-old developer from Singapore, currently based out of Australia, with a strong passion for problem-solving. I'm interested in Automation and AI/ML.
 
 - Check out my [Website](https://christiancheng15.github.io/) to learn more about me
 - Explore my [GitHub](https://github.com/christiancheng15) where I share my latest projects
