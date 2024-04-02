@@ -14,6 +14,14 @@ I'm a 22-year-old developer from Singapore, currently in Australia. I'm passiona
 
 **Testing:** `Postman` `Charles` `Selenium` `PyAutoGUI`
 
+## 🚧 Projects
+
+| Date       | Name       | Description | Status | Link |
+|------------|------------|-------------|--------|------|
+| YYYY-MM-DD | [Name]     | [Description] | [Status] | [Link] |
+| YYYY-MM-DD | [Name]     | [Description] | [Status] | [Link] |
+| YYYY-MM-DD | [Name]     | [Description] | [Status] | [Link] |
+
 ## 💬 Contact
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/christiancheng15/) or [Discord](https://discordapp.com/users/910033554644295750).
