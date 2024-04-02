@@ -16,9 +16,9 @@ I'm a 22-year-old developer from Singapore, currently in Australia. I'm passiona
 
 ## 🚧 Projects
 
-|      Date      | Name | Description | Status |
-|:--------------:|:----:|-------------|:------:|
-|   2024-03-03   | [Gist](https://github.com/christiancheng15/UNIHACK-2024) | Your bite-sized news companion. This project was submitted to UNIHACK 2024. [Learn more](https://devpost.com/software/gist-ryfdhn). | 🟢 |
+| Date | Name | Description | Status |
+|:----:|:----:|-------------|:------:|
+| 03-03-2024 | [Gist](https://github.com/christiancheng15/UNIHACK-2024) | Your bite-sized news companion. This project was submitted to UNIHACK 2024. [Learn more](https://devpost.com/software/gist-ryfdhn). | 🟢 |
 
 
 
