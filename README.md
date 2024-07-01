@@ -8,7 +8,7 @@ I'm a 22-year-old developer from Singapore, currently in Australia. I'm passiona
 
 **Developer Tools:** `Git` `GitHub` `BitBucket` `GCP` `AWS` `Azure AI` `OpenAI` `Confluence` `MySQL`
 
-**Frameworks * Libraries:** `Requests` `BeautifulSoup` `Pandas` `Selenium` `Playwright` `PyAutoGUI` `Flask` `FastAPI` `Gin` `NumPy` `SciPy` `Matplotlib` `Tensorflow` `yFinance` `React` `VueJS`
+**Frameworks & Libraries:** `Requests` `BeautifulSoup` `Pandas` `Selenium` `Playwright` `PyAutoGUI` `Flask` `FastAPI` `Gin` `NumPy` `SciPy` `Matplotlib` `Tensorflow` `yFinance` `React` `VueJS`
 
 ## 🚧 Projects
 
