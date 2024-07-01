@@ -2,17 +2,13 @@
 
 I'm a 22-year-old developer from Singapore, currently in Australia. I'm passionate about problem-solving through Automation and AI/ML.
 
-- Check out my [Website](https://christiancheng15.github.io/) to learn more about me
-- Explore my [GitHub](https://github.com/christiancheng15) where I share my latest projects
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/christiancheng15/)
-
-## 🧰 Toolbox
+## 🧰 Technical Skills
 
 **Languages:** `Python` `C++` `Go` `HTML` `CSS` `JavaScript` `SQL`
 
-**Developer Tools:** `Git` `GitHub` `BitBucket`
+**Developer Tools:** `Git` `GitHub` `BitBucket` `GCP` `AWS` `Azure AI` `OpenAI` `Confluence` `MySQL`
 
-**Testing:** `Postman` `Charles` `Selenium` `PyAutoGUI`
+**Frameworks * Libraries:** `Requests` `BeautifulSoup` `Pandas` `Selenium` `Playwright` `PyAutoGUI` `Flask` `FastAPI` `Gin` `NumPy` `SciPy` `Matplotlib` `Tensorflow` `yFinance` `React` `VueJS`
 
 ## 🚧 Projects
 
