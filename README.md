@@ -18,7 +18,7 @@ I'm a 22-year-old developer from Singapore, currently in Australia. I'm passiona
 
 ## 💬 Contact
 
-I'm always on the lookout for opportunities to collaborate, learn, and contribute. Let's connect and work together! Feel free to reach out to me – [Email](christiancheng15@gmail.com), [LinkedIn](https://www.linkedin.com/in/christiancheng15/) or [Discord](https://discordapp.com/users/910033554644295750)
+I'm always on the lookout for opportunities to collaborate, learn, and contribute. Let's connect and work together! Feel free to reach out to me here – [Email](christiancheng15@gmail.com), [LinkedIn](https://www.linkedin.com/in/christiancheng15/) or [Discord](https://discordapp.com/users/910033554644295750)
 
 ## 🎧 Status
 
