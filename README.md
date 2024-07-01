@@ -16,7 +16,7 @@ I'm a 22-year-old developer from Singapore, currently in Australia. I'm passiona
 |:----:|:----:|-------------|:------:|
 | 01-07-2024 | [Kanvas](https://github.com/christiancheng15/Kanvas) | Automatic monitoring, joining, and leaving of groups in Canvas. [Learn more](https://github.com/christiancheng15/Kanvas) | 🟢 |
 | 03-03-2024 | [Gist](https://github.com/christiancheng15/UNIHACK-2024) | Your bite-sized news companion. This project was submitted to UNIHACK 2024. [Learn more](https://devpost.com/software/gist-ryfdhn) | 🟢 |
-| 26-09-2023 | [Footlocker Discount Generator](https://github.com/christiancheng15/Footlocker-10-Off) | Generate promotional codes from Footlocker Australia. [Learn more](https://github.com/christiancheng15/Footlocker-10-Off) | 🟢 |
+| 26-09-2023 | [Footlocker 10 Off](https://github.com/christiancheng15/Footlocker-10-Off) | Generate promotional codes from Footlocker Australia. [Learn more](https://github.com/christiancheng15/Footlocker-10-Off) | 🟢 |
 
 ## 💬 Contact
 
