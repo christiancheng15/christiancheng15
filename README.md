@@ -4,7 +4,7 @@ I'm a 22-year-old developer from Singapore, currently in Australia. I'm passiona
 
 ## 🧰 Technical Skills
 
-**Languages:** `Python` `C++` `Go` `HTML` `CSS` `JavaScript` `SQL`
+**Languages:** `Python` `C++` `Go` `Java` `HTML` `CSS` `JavaScript` `SQL`
 
 **Developer Tools:** `Git` `GitHub` `BitBucket` `GCP` `AWS` `Azure AI` `OpenAI` `Confluence` `MySQL`
 
